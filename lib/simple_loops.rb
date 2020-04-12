@@ -12,7 +12,7 @@ def loop_message_n_times(string, integer)
   end
 end
 
-
+#Loop over the array and output each element
 def output_array(array)
   i=0
   while i<array.length
