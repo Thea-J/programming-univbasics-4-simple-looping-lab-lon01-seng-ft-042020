@@ -21,7 +21,7 @@ def output_array(array)
   end
 end
 
-#
+#Convert each element in array to a string, and return the new array of strings
 def return_string_array(array)
   j=0
   string_array = []
