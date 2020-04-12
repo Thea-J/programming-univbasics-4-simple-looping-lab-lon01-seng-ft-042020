@@ -1,1 +1,16 @@
-# Write your methods here
+
+def 
+  
+end
+
+def 
+  
+end
+
+def 
+  
+end
+
+def 
+  
+end
