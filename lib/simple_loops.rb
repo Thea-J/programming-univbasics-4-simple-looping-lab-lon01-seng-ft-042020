@@ -16,7 +16,8 @@ end
 def output_array(array)
   i=0
   while i<array.length
-  puts
+  puts array[i]
+  i+=1
 end
 
 def return_string_array
