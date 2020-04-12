@@ -1,5 +1,5 @@
-
-def loop_message_five_times
+#
+def loop_message_five_times(string)
   
 end
 
