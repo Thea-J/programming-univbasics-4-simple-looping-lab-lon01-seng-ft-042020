@@ -28,6 +28,7 @@ def return_string_array(array)
   array[i].to_s
   j+=1
   end
+  array
 end
 
 
