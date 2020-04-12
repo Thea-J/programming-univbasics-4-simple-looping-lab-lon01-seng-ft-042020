@@ -24,11 +24,12 @@ end
 #
 def return_string_array(array)
   j=0
+  string_array = []
   while j<array.length do
-  array[j].to_s
+  string_array.push(array[j].to_s)
   j+=1
   end
-  array
+  string_array
 end
 
 
