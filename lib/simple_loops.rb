@@ -20,7 +20,7 @@ def output_array(array)
   i+=1
 end
 
-def return_string_array
+def return_string_array(array)
   
   
   
